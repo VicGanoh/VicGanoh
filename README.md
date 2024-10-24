@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Victor Tetteh-Ganoh Ahumah
+<!--- 👋 Hi, I’m Victor Tetteh-Ganoh Ahumah-->
 - 🌱 A software developer with useful knowledge in Java (Spring Boot), HTML, CSS, Bootstrap, Python (Django), and Version Control System.
-- 💞️ I’m looking to collaborate on projects that will help me improve and enhance my learning and career as a software developer.
-- 📫 How to reach me at kofiganoh@gmail.com
+- 💞️ I’m looking to collaborate on projects that will help me improve and enhance my learning and career curve as a software developer.
+- 📫 Reach out to me at kofiganoh@gmail.com
  <div id="badges">
   <a href="https://www.linkedin.com/in/victor-ahumah-16684519b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
